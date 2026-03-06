@@ -53,10 +53,12 @@ Technologies Used
 Project Structure
 
 ai-financial-fraud-detection
-
 │
+
 ├── fraud_detection_v1.ipynb
+
 ├── README.md
+
 └── .gitignore
 
 Future Improvements
@@ -107,6 +109,7 @@ This project demonstrates practical experience in:
 - Fraud detection analytics
 - Python data science stack
 - Model evaluation and interpretation
+
 
 
 
