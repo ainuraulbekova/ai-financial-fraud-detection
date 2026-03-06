@@ -96,14 +96,15 @@ Key techniques used:
 - Random Forest ensemble model
 - Precision/Recall optimization for rare fraud events
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
-  This project demonstrates practical experience in:
+This project demonstrates practical experience in:
 
-  - Data analysis and preprocessing
-  - Handling imbalanced datasets
-  - Machine learning model development
-  - Fraud detection analytics
-  - Python data science stack
-  - Model evaluation and interpretation
+- Data analysis and preprocessing
+- Handling imbalanced datasets
+- Machine learning model development
+- Fraud detection analytics
+- Python data science stack
+- Model evaluation and interpretation
+
 
