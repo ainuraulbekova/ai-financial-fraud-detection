@@ -107,6 +107,10 @@ This project demonstrates practical experience in:
 - Python data science stack
 - Model evaluation and interpretation
 
+## Feature Importance
+Below is the feature importnace analysis from the Random Forest model.
+
+![Feature Importance](feature importance.png)
 
 
 
