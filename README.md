@@ -110,7 +110,8 @@ This project demonstrates practical experience in:
 ## Feature Importance
 Below is the feature importnace analysis from the Random Forest model.
 
-![Feature Importance](feature importance.png)
+![Feature Importance](feature_importance.png)
+
 
 
 
