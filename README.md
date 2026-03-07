@@ -1,3 +1,21 @@
+## Project Summary
+
+AI Financial Fraud Detection using Machine
+
+Developed a machine learning model for detecting fraudulent financial transactions using real-world transaction data. The project addresses the challenge of extreme class imbalance in fraud detection by applying SMOTE oversampling and training a Random Forest classifier.
+
+The model pipeline includes data preprocessing, classimbalance handling, model training, and evaluation using precision-recall metrics suitable for rare event detection.
+
+Key components of the project:
+- Fraud detection model using Random Forest
+- Class imbalance handling with SMOTE
+- Evaluation using precision-recall metrics
+- Feature importance analysis for model interpretability
+
+This project demonstrates the potencial of AI-driven analytics to improve fraud detection systems and enhance financial transaction security.
+
+
+
 AI Financial Fraud Detection
 
 Machine learning project for detecting fraudulent financial transactions using classification algorithms and class imbalance handling techniques.
@@ -117,6 +135,7 @@ Below is the feature importnace analysis from the Random Forest model.
 Fraud detection models are evaluated using precision-recall metrics due to extreme class imbalance.
 
 ![Precision Recall Curve](precision_recall_curve.png)
+
 
 
 
