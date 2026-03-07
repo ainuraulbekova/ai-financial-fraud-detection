@@ -112,6 +112,12 @@ Below is the feature importnace analysis from the Random Forest model.
 
 ![Feature Importance](feature_importance.png)
 
+## Precision-Recall Curve
+
+Fraud detection models are evaluated using precision-recall metrics due to extreme class imbalance.
+
+![Precision Recall Curve](precision_recall_curve.png)
+
 
 
 
