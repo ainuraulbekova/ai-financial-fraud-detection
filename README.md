@@ -63,6 +63,10 @@ Fraud detection models should be evaluated with precision-recall metrics because
 
 ![Precision Recall Curve](precision_recall_curve.png)
 
+## ROC Curve
+The ROC curve provides an additional view of model discrimination performance across different classification thresholds.
+![ROC Curve](roc_curve.png)
+
 ## Technologies Used
 
 •	Python
@@ -97,6 +101,7 @@ This project demonstrates practical experience in:
 - Fraud detection analytics
 - Model evaluation and interpretation
 - Financial risk analytics
+
 
 
 
