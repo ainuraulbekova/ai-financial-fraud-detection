@@ -7,9 +7,10 @@ This project explores how machine learning techniques can be applied to financia
 The goal of this project is to demonstrate how AI-driven analytics can contribute to stronger financial risk management systems and help protect consumers and financial institutions from fraud-related losses.
 
 ## Project Summary
-	
-This project presents a machine learning approach to detecting fraudulent financial transactions using transaction-level data. The workflow includes data preprocessing, exploratory  data analysis, class imbalancehandling with SMOTE, Random Forest modeling, and evaluation using precision-recall metrics.
-The project demonstrates how AI-based methods can be used to support fraud detection systems and improve financial transaction security.
+Built a machine learning project for financial fraud detection using Python, SMOTE, and Random Forest.
+The project addresses one of the main chalenges in fraud analytics: extreme class imbalance. I used SMOTE to balance the training data and evaluated the model with precision, recall, F1-score, ROC, and precision-recall metrics.
+The final model achieved approximately 0.83 precision and 0.83 recall for the fraud class, showing strong performance in detecting rare fraudulent transactions.
+This project reflects my growing focus on AI-driven financial risk modeling, fraud detection analytics, and the use of machine learning to improve financial system security.
 
 ## Overview
 	
@@ -101,6 +102,7 @@ This project demonstrates practical experience in:
 - Fraud detection analytics
 - Model evaluation and interpretation
 - Financial risk analytics
+
 
 
 
